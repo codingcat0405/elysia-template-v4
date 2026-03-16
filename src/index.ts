@@ -19,8 +19,8 @@ const startApp = async () => {
           provider: 'swagger-ui',
           documentation: {
             info: {
-              title: 'HYRA MEGA API',
-              description: 'HYRA MEGA API Documentation',
+              title: 'ELYSIA TEMPLATE API',
+              description: 'ELYSIA TEMPLATE API Documentation',
               version: '1.0.0',
             },
             components: {
